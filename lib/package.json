@@ -1,0 +1,11 @@
+{
+  "name": "afe-diagram-custom-control",
+  "version": "0.0.2-alpha3",
+  "author": "Thembo JOnathan",
+  "main": "web-components.bundled.js",
+  "module": "web-components.bundled.js",
+  "description": "Ampath forms diagraming custom component.",
+  "types": "afe-content-switcher.d.ts",
+  "license": "MIT",
+  "private": false
+}
