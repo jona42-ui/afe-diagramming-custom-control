@@ -1,4 +1,4 @@
-# afe-idagram-custom-control
+# afe-diagram-custom-control
 
 Ampath forms diagraming custom component.
 
